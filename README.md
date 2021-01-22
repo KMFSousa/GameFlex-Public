@@ -23,7 +23,7 @@ Kristopher Sousa, Zachary Walford, Jackson Barr, William Huang<br>
 ## Stack
 In short we've utilized the latest of the MEAN stack plus MySQL hosted on GCP. 
 
-The complete list of tools is: MongoDB, Express, Angular 11, Node.js, MySQL, Phaser, GridFS and Google Cloud Platform.
+The complete list of tools is: TypeScript, JavaScript, MongoDB, Express, Angular 11, Node.js, MySQL, Phaser, GridFS and Google Cloud Platform.
 
 MySQL handles the storage of metadata, user credential information and and anything that makes sense in a relational context. MongoDB however stores the meat of the project, the: game states, configurations, and files
 
@@ -31,4 +31,8 @@ MySQL handles the storage of metadata, user credential information and and anyth
 
 While modifications have been made to these as development progresses they still provide a nice overview of the concept.
 
-... To be added
+![Services Diagram](./Services-Diagram.png)
+
+![GameFlex Mockup](./GameFlex-Mockup.png)
+
+![Database-Schema-V2](./Database-Schema-V2.png)
