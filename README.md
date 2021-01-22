@@ -31,8 +31,8 @@ MySQL handles the storage of metadata, user credential information and and anyth
 
 While modifications have been made to these as development progresses they still provide a nice overview of the concept.
 
-![Services Diagram](./Services-Diagram.png)
+![Services Diagram](https://github.com/KMFSousa/GameFlex-Public/edit/develop/Services-Diagram.png?raw=true)
 
-![GameFlex Mockup](./GameFlex-Mockup.png)
+![GameFlex Mockup](https://github.com/KMFSousa/GameFlex-Public/edit/develop/GameFlex-Mockup.png)
 
-![Database-Schema-V2](./Database-Schema-V2.png)
+![Database Schema V2](https://github.com/KMFSousa/GameFlex-Public/edit/develop/Database-Schema-V2.png)
